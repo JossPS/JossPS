@@ -1,23 +1,20 @@
-# ¡Hola! Soy Josselyn Simbaña Calapiña 👋
-### Desarrolladora de Software (Associate Degree) & English Teacher
+# ¡Hola! Soy Josselyn 
+### Desarrolladora de Software 
 
-Un gusto saludarte. Soy una apasionada por el desarrollo **Backend**, el diseño de arquitecturas web modulares y la integración estratégica de herramientas de Inteligencia Artificial para optimizar flujos de lógica de programación.
+Soy una apasionada por el desarrollo **Backend**, el diseño de arquitecturas web modulares y la integración estratégica de herramientas de Inteligencia Artificial para optimizar flujos de lógica de programación.
 
 ---
 
-## 🚀 Un poco sobre mí...
+## Un poco sobre mí...
 
-- 🔭 **Enfoque actual:** Construcción de arquitecturas limpias, modulares y patrones eficientes como Product-Variant.
-- 🌱 **Evolución continua:** Perfeccionando el manejo avanzado en NestJS, Java con Spring Boot y optimización de bases de datos relacionales con PostgreSQL.
-- ⚡ **Fun fact:** Además del código, me encanta enseñar inglés a niños utilizando métodos visuales y rítmicos. ¡La lógica de la programación y la estructura de un idioma tienen más en común de lo que parece!
-
+-  **Enfoque actual:** Construcción de arquitecturas limpias, modulares y patrones eficientes como Product-Variant.
+-  **Evolución continua:** Perfeccionando el manejo avanzado en NestJS, Java con Spring Boot y optimización de bases de datos relacionales con PostgreSQL.
 ---
 
 ## 🛠️ Tecnologías y Herramientas Compiladas
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -47,7 +44,7 @@ Un gusto saludarte. Soy una apasionada por el desarrollo **Backend**, el diseño
 
 ---
 
-## 📫 Conectemos:
+## Conectemos:
 
-- 💼 **LinkedIn:** [Enlace a tu perfil profesional]
-- 📧 **Correo:** `josselynsimbaa41198@gmail.com`
+- **LinkedIn:** www.linkedin.com/in/josselyn-simbana-0110aa23b
+- **Correo:** `josselynsimbaa41198@gmail.com`
