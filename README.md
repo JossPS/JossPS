@@ -1,17 +1,18 @@
-# ¡Hola! Soy Josselyn 
-### Desarrolladora de Software 
+# Hi there! I'm Josselyn 
+### Software Developer (Associate Degree)
 
-Soy una apasionada por el desarrollo **Backend**, el diseño de arquitecturas web modulares y la integración estratégica de herramientas de Inteligencia Artificial para optimizar flujos de lógica de programación.
+I am passionate about **Backend Development**, designing modular web architectures, and strategically integrating Artificial Intelligence tools to optimize core business logic and workflows.
 
 ---
 
-## Un poco sobre mí...
+##  About Me...
 
--  **Enfoque actual:** Construcción de arquitecturas limpias, modulares y patrones eficientes como Product-Variant.
--  **Evolución continua:** Perfeccionando el manejo avanzado en NestJS, Java con Spring Boot y optimización de bases de datos relacionales con PostgreSQL.
+- **Current Focus:** Building clean, modular architectures and applying efficient database design patterns like Product-Variant.
+- **Continuous Learning:** Refining advanced practices in NestJS, Java with Spring Boot, and optimizing relational databases with PostgreSQL.
+
 ---
 
-## 🛠️ Tecnologías y Herramientas Compiladas
+## 🛠️ Core Tech Stack & Tools
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,7 +21,7 @@ Soy una apasionada por el desarrollo **Backend**, el diseño de arquitecturas we
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Mobile & Front/Tools
+### Mobile & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,23 +29,23 @@ Soy una apasionada por el desarrollo **Backend**, el diseño de arquitecturas we
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-### 🛒 [Plataforma Web E-Commerce](https://github.com/JossPS)
-- **Descripción:** Web integral para catálogo de productos y ventas con pasarela simulada, carrito de compras e integración de pedidos directos vía WhatsApp.
-- **Tech Stack:** Node.js, Express.js, MongoDB Atlas, Cloudinary, AWS S3 y Render.
+### 🛒 [E-Commerce Web Platform](https://github.com/JossPS)
+- **Description:** A comprehensive web platform featuring a product catalog, interactive shopping cart, simulated payment gateway, and automated order placement directly through WhatsApp.
+- **Tech Stack:** Node.js, Express.js, MongoDB Atlas, Cloudinary, AWS S3, and Render.
 
-### 📱 [Proyecto "BLOOMI" & App Educativa Infantil](https://github.com/JossPS)
-- **Descripción:** Aplicación móvil interactiva orientada a la conexión con voluntariados y módulos dinámicos/estructuras lógicas para la enseñanza de inglés.
-- **Tech Stack:** Kotlin, Jetpack Compose, Spring Boot y REST APIs.
+### 📱 ["BLOOMI" Mobile App & Children's Educational Platform](https://github.com/JossPS)
+- **Description:** An interactive mobile application designed to connect users with social volunteering programs, alongside dynamic learning modules and structural features tailored for children's language education.
+- **Tech Stack:** Kotlin, Jetpack Compose, Spring Boot, and REST APIs.
 
-### 💼 [Herramienta Digital "SARAS" - CONAFIPS](https://github.com/JossPS)
-- **Descripción:** Colaboración activa en el backend del sistema mediante el desarrollo de endpoints clave para la lógica del negocio financiero y persistencia de datos relacionales.
-- **Tech Stack:** Node.js, Express.js, PostgreSQL y Angular.
+### 💼 ["SARAS" Digital Tool - CONAFIPS](https://github.com/JossPS)
+- **Description:** Active contribution to backend development by implementing critical endpoints for financial business logic, third-party service integration, and relational database persistence.
+- **Tech Stack:** Node.js, Express.js, PostgreSQL, and Angular.
 
 ---
 
-## Conectemos:
+## Let's Connect!
 
-- **LinkedIn:** www.linkedin.com/in/josselyn-simbana-0110aa23b
-- **Correo:** `josselynsimbaa41198@gmail.com`
+- 💼 **LinkedIn:** [linkedin.com/in/josselyn-simbana-0110aa23b](https://www.linkedin.com/in/josselyn-simbana-0110aa23b)
+- 📧 **Email:** `josselynsimbaa41198@gmail.com`
