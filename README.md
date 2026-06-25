@@ -1,5 +1,5 @@
 # Hi there! I'm Josselyn 
-### Software Developer (Associate Degree)
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Joss..;Full+stack+developer...;"/>
 
 I am passionate about **Backend Development**, designing modular web architectures, and strategically integrating Artificial Intelligence tools to optimize core business logic and workflows.
 
