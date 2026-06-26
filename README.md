@@ -1,4 +1,9 @@
-# Hi there! I'm Josselyn 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> !! Welcome to my profile</h1>
+  </ul>
+</div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Joss..;Full+stack+developer...;"/>
 
 I am passionate about **Backend Development**, designing modular web architectures, and strategically integrating Artificial Intelligence tools to optimize core business logic and workflows.
