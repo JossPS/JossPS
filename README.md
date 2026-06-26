@@ -42,6 +42,16 @@ I am passionate about **Backend Development**, designing modular web architectur
     <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,github,postman,vscode,androidstudio,kotlin,spring&perline=14" />
   </a>
 </p>
+<p>
+
+## <p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
+<b>Git Activeness</b>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JossPS&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
+</p>
 
 ---
 
