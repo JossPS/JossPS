@@ -17,20 +17,31 @@ I am passionate about **Backend Development**, designing modular web architectur
 
 ---
 
-## 🛠️ Core Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Core Tech Stack & Tools</b>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Backend & Databases</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,html,java,js,mongodb,mysql,nodejs,py,react&perline=14" />
+  </a>
+</p>
 
-### Mobile & Tools
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Mobile & Tools</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,postgres,github,postman,vscode,androidstudio,kotlin,spring&perline=14" />
+  </a>
+</p>
 
 ---
 
@@ -39,10 +50,6 @@ I am passionate about **Backend Development**, designing modular web architectur
 ### 🛒 [E-Commerce Web Platform](https://github.com/JossPS)
 - **Description:** A comprehensive web platform featuring a product catalog, interactive shopping cart, simulated payment gateway, and automated order placement directly through WhatsApp.
 - **Tech Stack:** Node.js, Express.js, MongoDB Atlas, Cloudinary, AWS S3, and Render.
-
-### 📱 ["BLOOMI" Mobile App & Children's Educational Platform](https://github.com/JossPS)
-- **Description:** An interactive mobile application designed to connect users with social volunteering programs, alongside dynamic learning modules and structural features tailored for children's language education.
-- **Tech Stack:** Kotlin, Jetpack Compose, Spring Boot, and REST APIs.
 
 ### 💼 ["SARAS" Digital Tool - CONAFIPS](https://github.com/JossPS)
 - **Description:** Active contribution to backend development by implementing critical endpoints for financial business logic, third-party service integration, and relational database persistence.
